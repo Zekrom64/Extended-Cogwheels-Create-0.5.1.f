@@ -11,6 +11,9 @@
     },
     {
       "tag": "c:steel_plates"
+    },
+    {
+      "item": "createdeco:industrial_iron_ingot"
     }
   ]
 }
